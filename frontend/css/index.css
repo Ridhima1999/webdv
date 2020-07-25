@@ -4,3 +4,9 @@
     color:white
     
 }
+table,th,td{
+    border:2px solid black;
+}
+.cde{
+    vertical-align: top;
+}
