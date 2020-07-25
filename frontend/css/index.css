@@ -1,12 +1,9 @@
 .abc{
-    background-color:blue ;
+    background-color:rgb(0, 183, 255) ;
     font-style: italic;
-    color:white
+    
     
 }
 table,th,td{
     border:2px solid black;
-}
-.cde{
-    vertical-align: top;
 }
