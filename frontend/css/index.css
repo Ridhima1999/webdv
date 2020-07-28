@@ -8,3 +8,11 @@ table,th,td{
     border:2px solid black;
 }
 
+table{
+    height: 400;
+    
+}
+
+td{
+    background-color:whitesmoke;
+}
