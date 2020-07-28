@@ -36,7 +36,7 @@ function drawFace(ctx, radius) {
   
     ctx.beginPath();
     ctx.arc(0, 0, radius * 0.1, 0, 2 * Math.PI);
-    ctx.fillStyle = '#333';
+    ctx.fillStyle = 'black';
     ctx.fill();
   }
   function drawNumbers(ctx, radius) {
